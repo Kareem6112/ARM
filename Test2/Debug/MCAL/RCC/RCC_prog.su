@@ -1,0 +1,15 @@
+../MCAL/RCC/RCC_prog.c:8:14:RCC_voidEnableClock	24	static
+../MCAL/RCC/RCC_prog.c:60:6:RCC_voidDisableClock	16	static
+../MCAL/RCC/RCC_prog.c:92:6:RCC_voidPLL_configuration	16	static
+../MCAL/RCC/RCC_prog.c:116:6:RCC_voidSelectSystemClock	16	static
+../MCAL/RCC/RCC_prog.c:123:6:RCC_voidAHB_Prescaler	16	static
+../MCAL/RCC/RCC_prog.c:127:6:RCC_voidAPB1_Prescaler	16	static
+../MCAL/RCC/RCC_prog.c:131:6:RCC_voidAPB2_Prescaler	16	static
+../MCAL/RCC/RCC_prog.c:135:6:RCC_voidADC_Prescaler	16	static
+../MCAL/RCC/RCC_prog.c:140:6:RCC_voidAHB_PeripheralEnable	16	static
+../MCAL/RCC/RCC_prog.c:144:6:RCC_voidAHB_PeripheralDisable	16	static
+../MCAL/RCC/RCC_prog.c:150:6:RCC_voidAPB2_PeripheralEnable	16	static
+../MCAL/RCC/RCC_prog.c:155:6:RCC_voidAPB2_PeripheralDisable	16	static
+../MCAL/RCC/RCC_prog.c:160:6:RCC_voidAPB1_PeripheralEnable	16	static
+../MCAL/RCC/RCC_prog.c:165:6:RCC_voidAPB1_PeripheralDisable	16	static
+../MCAL/RCC/RCC_prog.c:170:6:RCC_voidMCO_Select	16	static
